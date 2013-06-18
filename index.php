@@ -39,7 +39,7 @@ Why Slidemaker?
         </form>
     </div>
     <div class="footer">
-    This is a Proof of Concept.<br><br>
+    This is a Proof of Concept. <a href="https://github.com/memibeltrame/csss" class="">Code on Github</a><br><br>
     CSSS-Slidemaker is based on <a href="https://github.com/LeaVerou/CSSS" class="">Lea Verou's CSS-based SlideShow System CSSS</a> <br>
 
     Ping me on <a href="http://twitter.com/bratwurstkomet">Twitter for feedback</a>
